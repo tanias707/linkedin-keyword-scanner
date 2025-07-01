@@ -1,0 +1,10 @@
+html
+css
+javascript
+react
+responsive design
+ui/ux
+api integration
+version control
+frontend framework
+web performance

@@ -1,0 +1,10 @@
+machine learning
+python
+statistics
+data visualization
+pandas
+numpy
+tensorflow
+data cleaning
+regression
+classification
