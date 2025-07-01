@@ -1,3 +1,5 @@
+[![Run App](https://img.shields.io/badge/🚀%20Launch%20App-Streamlit-blue?logo=streamlit)](https://linkedin-keyword-scanner-apsdcwzmawjhzapppbffcjq.streamlit.app/)
+
 # LinkedIn Resume Keyword Scanner
 
 This is a Streamlit-based web application that allows users to upload a resume in PDF format and check whether it contains relevant keywords based on a selected job role. It helps users optimize their resumes for applicant tracking systems (ATS) and job descriptions.
